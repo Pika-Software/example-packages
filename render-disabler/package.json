@@ -1,7 +1,7 @@
 {
     "name": "render-disabler",
     "files": {
-        "lua/packages/render-disabler/package.lua": "",
-        "lua/packages/render-disabler/init.lua": ""
+        "lua/packages/render-disabler/package.lua": "https://raw.githubusercontent.com/Pika-Software/example-packages/master/render-disabler/lua/packages/render-disabler/package.lua",
+        "lua/packages/render-disabler/init.lua": "https://raw.githubusercontent.com/Pika-Software/example-packages/master/render-disabler/lua/packages/render-disabler/init.lua"
     }
 }
