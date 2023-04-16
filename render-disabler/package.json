@@ -1,0 +1,7 @@
+{
+    "name": "render-disabler",
+    "files": {
+        "lua/packages/render-disabler/package.lua": "",
+        "lua/packages/render-disabler/init.lua": ""
+    }
+}
