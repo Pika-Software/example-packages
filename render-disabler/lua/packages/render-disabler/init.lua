@@ -1,4 +1,4 @@
-require( "packages/glua-extensions", "https://github.com/Pika-Software/glua-extensions" )
+install( "packages/glua-extensions", "https://github.com/Pika-Software/glua-extensions" )
 
 local util_ScreenResolution = util.ScreenResolution
 local packageName = gpm.Package:GetIdentifier()
