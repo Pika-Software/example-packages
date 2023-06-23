@@ -1,5 +1,6 @@
 name = "render-disabler"
-main = "init.lua"
-server = false
+version = 000300
 autorun = true
-version = 3
+init = {
+    ["client"] = "init.lua"
+}
